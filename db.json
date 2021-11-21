@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "fullName": "Alex zen",
+      "email": "alex@gmail.com",
+      "mobile": "908674587",
+      "salary": "10000"
+    },
+    {
+      "id": 6,
+      "fullName": "new test",
+      "email": "test@gmail.com",
+      "mobile": "1234567890",
+      "salary": "12000"
+    },
+    {
+      "id": 7,
+      "fullName": "abc",
+      "email": "abc@gmail.com",
+      "mobile": "9876542531",
+      "salary": "1000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
